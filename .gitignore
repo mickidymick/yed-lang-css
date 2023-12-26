@@ -1,0 +1,5 @@
+*.yedrc
+*.so
+*.bookmarks
+.ccls-cache
+*.json
