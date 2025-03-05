@@ -1,5 +1,5 @@
-*.yedrc
 *.so
-*.bookmarks
+.yedrc
 .ccls-cache
-*.json
+compile_commands.json
+debug_build.sh

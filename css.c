@@ -16,7 +16,7 @@ int yed_plugin_boot(yed_plugin *self) {
     YED_PLUG_VERSION_CHECK();
 
     if (yed_get_var("lang-css-extensions") == NULL) {
-        yed_set_var("lang-css-extensions", "");
+        yed_set_var("lang-css-extensions", "css");
     }
 
 LOG_FN_ENTER();
